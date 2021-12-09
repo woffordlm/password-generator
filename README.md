@@ -9,7 +9,7 @@ This web application generates random passwords based on the users selected crit
 * Javascript
 
 ## Screenshots
-![Screenshot of password generator](./images/Screen Shot 2021-12-09 at 9.04.21AM.png))
+![Screenshot of password generator](./images/Screen Shot 2021-12-09 at 9.04.21AM.png)
 
 
 ## Website
