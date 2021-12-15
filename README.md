@@ -13,5 +13,5 @@ This web application generates random passwords based on the users selected crit
 
 
 ## Website
- https://woffordlm.github.io/luke-wofford-portfolio/
+ https://woffordlm.github.io/password-generator/
 
